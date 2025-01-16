@@ -4,7 +4,6 @@ Bienvenue dans **"Méthode de 0 à 1 – De l’Idée à la Première Vente"**, 
 
 En attendant vous pouvez toujours consulter ces ressources : https://blog.meet-magnet.com/
 
-![Méthode de 0 à 1]
 
 ## 📚 Table des Matières
 
