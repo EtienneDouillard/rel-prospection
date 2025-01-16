@@ -1,8 +1,10 @@
 # Méthode de 0 à 1 – De l’Idée à la Première Vente (en construction)
 
-Bienvenue dans **"Méthode de 0 à 1 – De l’Idée à la Première Vente"**, une ressource éducative complète conçue pour vous accompagner dans la création et la commercialisation de votre produit ou service. Que vous soyez entrepreneur, freelance ou en pleine création d'entreprise, cette méthode structurée vous guidera pas à pas vers votre première vente réussie.
+Bienvenue dans **"Méthode de 0 à 1 – De l’Idée à la Première Vente"**, une ressource éducative libre (en construction) complète conçue pour vous accompagner dans la création et la commercialisation de votre produit ou service. Que vous soyez entrepreneur, freelance ou en pleine création d'entreprise, cette méthode structurée vous guidera pas à pas vers votre première vente réussie.
 
-![Méthode de 0 à 1](https://via.placeholder.com/800x200.png?text=M%C3%A9thode+de+0+%C3%A0+1)
+En attendant vous pouvez toujours consulter ces ressources : 
+
+![Méthode de 0 à 1]()
 
 ## 📚 Table des Matières
 
